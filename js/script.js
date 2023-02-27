@@ -13,8 +13,8 @@ console.log("10. Настройки приложения +20");
 
 
 import playList from "./playList.js";
-import "../node_modules/i18next/i18next.js";
-//import "../i18next/i18next.js";
+// import "../node_modules/i18next/i18next.js";
+import "../i18next/i18next.js";
 
 i18next.init({
   lng: "en",
