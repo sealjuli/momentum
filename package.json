@@ -1,0 +1,9 @@
+{
+  "name": "momentum-rs-task",
+  "version": "1.0.0",
+  "description": "Task momentum for RS-SCHOOL",
+  "main": "script.js",
+  "dependencies": {
+    "i18next": "22.4.10"
+  }
+}
